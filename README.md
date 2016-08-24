@@ -1,3 +1,7 @@
 # fishing-tournament
-[![Build Status](https://secure.travis-ci.org/Ten-Thirty-Lunch-Crew/fishing-tournament.png?branch=master)](https://travis-ci.org/Ten-Thirty-Lunch-Crew/fishing-tournament)
-[![Coverage Status](https://coveralls.io/repos/Ten-Thirty-Lunch-Crew/fishing-tournament/badge.svg?branch=master)](https://coveralls.io/r/Ten-Thirty-Lunch-Crew/fishing-tournament/?branch=master)
+
+This application was generated using the Yeoman generator [ng-fullstack](https://github.com/angular-fullstack/generator-angular-fullstack).  See the [getting started](https://github.com/ericmdantas/generator-ng-fullstack/wiki/Getting-Started) for more information on install requirements, dependencies, etc.
+
+### Description
+
+A simple fishing tournament application written in the MEAN stack that allows the management and participation of fishing tournaments.
