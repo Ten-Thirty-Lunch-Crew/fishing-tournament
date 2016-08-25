@@ -1,0 +1,29 @@
+# Fishing Tournament App
+## Functionalities:
+- MVP
+	  - Create participant – link user to a tourney
+	  - Create a user
+	  - Create a tournament instance
+	  - Ability to enter a catch
+	  - Leaderboard
+- NON – MVP
+	  - Define tourney rules
+		- Enforcable rules – and validation
+		- Rules list
+	  - Notifications
+	  - Trash talk – images/text
+	  - Achievments/Badges
+		- Fish caught
+		- Tourney participation
+		- Etc.
+	  - Social Network integration
+		- User twitter/instagram images
+	  - Participant location
+	  - Map integration
+	  - Payment services
+	  - Team/Participant grouping
+	  - User accounts – track metrics
+	  - Weather API integration
+	  - Metrics tracking
+	  - Feature requests	
+	  - User permissions
